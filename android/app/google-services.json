@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267134015934",
+    "project_id": "tarjetasjela",
+    "storage_bucket": "tarjetasjela.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267134015934:android:65b2186fca7ff534c581ef",
+        "android_client_info": {
+          "package_name": "com.example.prynfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8GKcm7WC6Ibt6nvO0UuAwmy_rOws7CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267134015934:android:f852a95d424765dac581ef",
+        "android_client_info": {
+          "package_name": "com.mycompany.tarjetanfcp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8GKcm7WC6Ibt6nvO0UuAwmy_rOws7CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
